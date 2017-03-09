@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-int
+int //это учебная программа
 main() {
     int a, b;
     cout << "Enter A and B: ";
